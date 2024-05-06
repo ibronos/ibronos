@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=ibronos&label=Profile%20views&color=0e75b6&style=flat" alt="ibronos" />
 </p>
 
-
+- 👩‍🏭 WordPress and Magento (Adobe Commerce) Developer.
+- ✨ Student of life. 
 - 🌱 I’m currently learning **React, Next.js, Shopify & Express.** 
 - 👨‍💻 All of my projects are available at [https://isaidi.vercel.app/portfolio](https://isaidi.vercel.app/portfolio) 
 
