@@ -43,7 +43,10 @@
   
 
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases & ORM:</h3>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" />
+</a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
 </a>
