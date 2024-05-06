@@ -25,11 +25,14 @@
   
   
 <h3 align="left">Framework & CMS:</h3>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" />
+<a href="https://roots.io/bedrock/" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/760b4dd0c64160863375115020f822563ac62eaf26761cde4fd26e8a4e70040a/68747470733a2f2f63646e2e726f6f74732e696f2f6170702f75706c6f6164732f6c6f676f2d626564726f636b2e737667" alt="wordpress-bedrock" width="auto" height="34" />
 </a>
 <a href="https://about.magento.com/Magento-Commerce" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" alt="magento" width="40" height="40" />
+</a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" />
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
@@ -37,18 +40,16 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
 </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
+</a>
+
   
 
 
 <h3 align="left">Databases & ORM:</h3>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" />
-</a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -63,9 +64,6 @@
 
 <h3 align="left">Other Tools & Libraries:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
@@ -92,9 +90,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
- 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+  </a>
+<a href="https://elementor.com/" target="_blank" rel="noreferrer">
+    <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.svg" alt="elementor" width="40" height="40" />
+  </a>
+<a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer">
+    <img src="https://ps.w.org/advanced-custom-fields/assets/icon-256x256.png" alt="ACF" width="40" height="40" />
   </a>
 </p>
 
