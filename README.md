@@ -24,7 +24,7 @@
   
 <h3 align="left">Framework & CMS:</h3>
 <a href="https://roots.io/bedrock/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/760b4dd0c64160863375115020f822563ac62eaf26761cde4fd26e8a4e70040a/68747470733a2f2f63646e2e726f6f74732e696f2f6170702f75706c6f6164732f6c6f676f2d626564726f636b2e737667" alt="wordpress-bedrock" width="auto" height="34" />
+    <img src="https://cdn.roots.io/app/uploads/logo-bedrock.svg" alt="wordpress-bedrock" width="auto" height="34" />
 </a>
 <a href="https://about.magento.com/Magento-Commerce" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" alt="magento" width="40" height="40" />
@@ -94,9 +94,6 @@
   <a href="https://twitter.com/ibronos" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibronos" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/isaidi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isaidi" height="30" width="40" />
-  </a>
 </p>
 
 
@@ -104,14 +101,4 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibronos&show_icons=true&locale=en&layout=compact" alt="ibronos" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibronos&show_icons=true&locale=en" alt="ibronos" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibronos&" alt="ibronos" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ibronos" alt="ibronos" />
-  </a>
-</p> 
