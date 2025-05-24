@@ -7,7 +7,6 @@
 - 👩‍🏭 WordPress and Magento (Adobe Commerce) Developer.
 - ✨ Student of life. 
 - 🌱 I’m currently learning **React, Next.js, Express.** 
-- 👨‍💻 All of my projects are available at [https://isaidi.vercel.app/portfolio](https://isaidi.vercel.app/portfolio) 
 
 
 <h3 align="left">Languages:</h3>
